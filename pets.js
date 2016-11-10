@@ -27,7 +27,6 @@ if (cmd === 'read') {
       }
       console.log(pets[index]);
     }
-
   });
 }
 
